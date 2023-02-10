@@ -7,4 +7,4 @@
  VALUES ('6','Net due 120 days','120]')
 
  ```
-!(Exercise 1 Screenshot)[/assets/ch5-ex1.jpg]
+![Exercise 1 Screenshot](/assets/ch5-ex1.jpg)
